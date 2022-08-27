@@ -1,3 +1,6 @@
 *.gltf filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 <files[[:space:]]to[[:space:]]be[[:space:]]tracked> filter=lfs diff=lfs merge=lfs -text
+.gltf filter=lfs diff=lfs merge=lfs -text
+*.gltfd filter=lfs diff=lfs merge=lfs -text
+*.gltd filter=lfs diff=lfs merge=lfs -text
